@@ -1,4 +1,4 @@
-mood = "unhappy"
+mood = input("Enter a state of mind: ")
 
 if mood == "happy":
     print("It is great to see you happy!")
